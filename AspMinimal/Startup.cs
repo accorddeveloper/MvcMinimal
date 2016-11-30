@@ -9,7 +9,6 @@ namespace AspMinimal
     {
         public void Configuration(IAppBuilder app)
         {
-           
         }
     }
 }
